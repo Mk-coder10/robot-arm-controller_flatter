@@ -69,7 +69,9 @@ Make sure your emulator is running and your local server is accessible via http:
 
 
  Built With
+ ```
 Flutter (frontend)
 PHP (backend)
 MySQL (database)
 XAMPP (local server)
+```
