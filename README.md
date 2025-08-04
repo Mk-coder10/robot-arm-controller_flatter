@@ -63,8 +63,9 @@ Make sure your emulator is running and your local server is accessible via http:
 
 <uses-permission android:name="android.permission.INTERNET"/>
 
-📸 Screenshots
-<img width="597" height="1282" alt="image" src="https://github.com/user-attachments/assets/91a62126-0271-4aab-ae49-579e345c1366" />
+### 📱 App Screenshot
+<img src="https://github.com/user-attachments/assets/91a62126-0271-4aab-ae49-579e345c1366" width="250" alt="Robot Arm App UI" />
+
 
 
  Built With
